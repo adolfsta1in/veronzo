@@ -79,8 +79,8 @@ export const productCategories: CategoryItem[] = [
     purpose: "Интерьер",
   },
   {
-    title: "Входные двери",
-    href: "/catalog",
+    title: "Двери",
+    href: "/catalog/doors",
     description: "Архитектурные входные группы для частных и коммерческих объектов.",
     image: "/images/source/catalog/catalog-02.jpeg",
     icon: DoorOpen,
@@ -90,7 +90,7 @@ export const productCategories: CategoryItem[] = [
   },
   {
     title: "Лифты",
-    href: "/catalog",
+    href: "/catalog/lifts",
     description: "Вертикальные решения для объектов с высоким уровнем отделки.",
     image: "/images/source/catalog/catalog-03.jpeg",
     icon: Building2,

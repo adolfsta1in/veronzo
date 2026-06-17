@@ -18,13 +18,12 @@ export function CategoryGrid({ items, columns = "three" }: CategoryGridProps) {
       }
     >
       {items.map((item, index) => {
-        const Icon = item.icon;
         const span = columns === "mixed" ? (index % 5 === 0 ? "lg:col-span-3" : "lg:col-span-2") : "";
         return (
           <Link
             key={item.title}
             href={item.href}
-            className={`group light-sweep relative min-h-[360px] overflow-hidden rounded-[28px] bg-[var(--graphite)] text-white shadow-[0_24px_70px_rgba(20,23,26,0.16)] ${span}`}
+            className={`group light-sweep relative min-h-[390px] overflow-hidden rounded-[28px] bg-[var(--graphite)] text-white shadow-[0_24px_70px_rgba(20,23,26,0.16)] ${span}`}
           >
             <Image
               src={item.image}
@@ -34,13 +33,10 @@ export function CategoryGrid({ items, columns = "three" }: CategoryGridProps) {
               className="object-cover opacity-78 transition duration-700 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/78 via-black/18 to-transparent" />
-            <div className="absolute inset-x-0 bottom-0 p-6">
-              <div className="mb-5 flex h-11 w-11 items-center justify-center rounded-full border border-white/30 bg-white/14 backdrop-blur">
-                <Icon size={20} strokeWidth={1.7} />
-              </div>
+            <div className="absolute inset-x-0 bottom-0 p-6 md:p-7">
               <div className="flex items-end justify-between gap-4">
                 <div>
-                  <h3 className="font-[family-name:var(--font-display)] text-4xl font-semibold leading-none">
+                  <h3 className="max-w-xl font-[family-name:var(--font-display)] text-4xl font-semibold leading-none md:text-5xl">
                     {item.title}
                   </h3>
                   <p className="mt-3 max-w-sm text-sm leading-6 text-white/78">{item.description}</p>

@@ -1,33 +1,30 @@
-import { CatalogFilter } from "@/components/catalog-filter";
+import { CategoryGrid } from "@/components/category-grid";
 import { PageHero } from "@/components/page-hero";
-import { allCatalogItems } from "@/lib/data";
+import { SectionHeading } from "@/components/section-heading";
+import { productCategories } from "@/lib/data";
 
 export const metadata = {
-  title: "Каталог",
-  description: "Каталог материалов, изделий и решений VERONZO без открытых цен.",
+  title: "Продукция",
+  description: "Камень, двери и лифты VERONZO для архитектурных и интерьерных проектов.",
 };
 
 export default function CatalogPage() {
-  const filterItems = allCatalogItems.map((item) => ({
-    title: item.title,
-    href: item.href,
-    description: item.description,
-    image: item.image,
-    material: item.material,
-    color: item.color,
-    purpose: item.purpose,
-  }));
-
   return (
     <main>
       <PageHero
-        label="Каталог"
-        title="Продукция VERONZO без компромисса по материалам"
-        text="Камень, двери, лифты и изделия представлены как база для запроса и индивидуального подбора под проект."
+        label="Продукция"
+        title="Три направления для архитектурного проекта"
+        text="На верхнем уровне оставлены только основные категории: камень, двери и лифты. Подробный каталог материалов находится внутри раздела камня."
         image="/images/source/catalog/catalog-01.jpeg"
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">
-        <CatalogFilter items={filterItems} />
+        <SectionHeading
+          title="Выберите направление"
+          text="Камень открывает подробный каталог материалов. Двери и лифты пока представлены как визуальные категории."
+        />
+        <div className="mt-10">
+          <CategoryGrid items={productCategories} />
+        </div>
       </section>
     </main>
   );

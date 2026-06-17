@@ -4,26 +4,45 @@ import { stoneCategories } from "@/lib/data";
 
 export const metadata = {
   title: "Каталог камня",
-  description: "Мрамор, кварц, гранит, травертин, оникс, керамогранит и полудрагоценный камень VERONZO.",
+  description: "Мрамор, гранит, кварц, травертин, оникс и другие виды камня VERONZO.",
 };
 
+const stoneOrder = ["Мрамор", "Гранит", "Кварц", "Травертин", "Оникс"];
+
 export default function CatalogStonePage() {
-  const filterItems = stoneCategories.map((item) => ({
-    title: item.title,
-    href: item.href,
-    description: item.description,
-    image: item.image,
-    material: item.material,
-    color: item.color,
-    purpose: item.purpose,
-  }));
+  const orderedStone = stoneOrder
+    .map((title) => stoneCategories.find((item) => item.title === title))
+    .filter(Boolean)
+    .map((item) => ({
+      title: item!.title,
+      href: item!.href,
+      description: item!.description,
+      image: item!.image,
+      material: item!.material,
+      color: item!.color,
+      purpose: item!.purpose,
+    }));
+
+  const otherSource = stoneCategories.find((item) => item.title === "Керамогранит") ?? stoneCategories[0];
+  const filterItems = [
+    ...orderedStone,
+    {
+      title: "Другие виды камня",
+      href: otherSource.href,
+      description: "Дополнительные материалы и редкие фактуры подбираются под задачу проекта, формат поверхности и сценарий использования.",
+      image: otherSource.image,
+      material: "Другие виды камня",
+      color: otherSource.color,
+      purpose: otherSource.purpose,
+    },
+  ];
 
   return (
     <main>
       <PageHero
-        label="Каталог камня"
-        title="Слэбы и поверхности для архитектурных интерьеров"
-        text="Подбор камня строится вокруг рисунка, света, формата и назначения поверхности."
+        label="Камень"
+        title="Каталог камня внутри раздела продукции"
+        text="Материалы сгруппированы как отдельный подробный каталог: мрамор, гранит, кварц, травертин, оникс и другие виды камня."
         image="/images/source/catalog-stone/catalog-stone-02.jpg"
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">
