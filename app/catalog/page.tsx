@@ -16,6 +16,10 @@ export default function CatalogPage() {
         title="Три направления для архитектурного проекта"
         text="На верхнем уровне оставлены только основные категории: камень, двери и лифты. Подробный каталог материалов находится внутри раздела камня."
         image="/images/source/catalog/catalog-01.jpeg"
+        slides={productCategories.map((item) => ({
+          src: item.image,
+          alt: item.title,
+        }))}
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">
         <SectionHeading

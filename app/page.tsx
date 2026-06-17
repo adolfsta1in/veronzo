@@ -38,22 +38,17 @@ export default function Home() {
             className="object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/56 via-transparent to-white/10" />
-          <div className="absolute bottom-5 left-5 right-5 rounded-[26px] border border-white/28 bg-white/18 p-5 text-white backdrop-blur-2xl">
-            <p className="text-sm font-semibold">Подбор материалов под архитектуру проекта</p>
-            <div className="mt-4 grid grid-cols-3 gap-3 text-xs text-white/78">
-              <span>Камень</span>
-              <span>Изделия</span>
-              <span>Монтаж</span>
-            </div>
-          </div>
         </div>
       </section>
 
       <section className="mx-auto max-w-[1400px] px-5 py-16 lg:px-8">
         <div className="grid gap-5 md:grid-cols-5">
           {advantages.map((item, index) => (
-            <div key={item} className="marble-panel rounded-[26px] p-5">
-              <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-full bg-[var(--graphite)] text-white">
+            <div
+              key={item}
+              className="group marble-panel rounded-[26px] p-5 transition duration-300 hover:-translate-y-2 hover:border-white hover:bg-white/90 hover:shadow-[0_30px_90px_rgba(20,23,26,0.16)]"
+            >
+              <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-full bg-[var(--graphite)] text-white transition duration-300 group-hover:bg-black group-hover:shadow-[0_12px_30px_rgba(20,23,26,0.2)]">
                 {index % 2 === 0 ? <Gem size={18} strokeWidth={1.8} /> : <BadgeCheck size={18} strokeWidth={1.8} />}
               </div>
               <p className="text-sm font-semibold leading-6 text-[var(--graphite)]">{item}</p>
@@ -66,7 +61,6 @@ export default function Home() {
         <SectionHeading
           eyebrow="Продукция"
           title="Материалы и инженерные решения в одной системе"
-          text="Сохраняем действующие направления VERONZO и подаем их как архитектурный showroom."
         />
         <div className="mt-10">
           <CategoryGrid items={productCategories} />
@@ -142,7 +136,7 @@ export default function Home() {
             />
             <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/62">Услуги</p>
             <h2 className="mt-4 font-[family-name:var(--font-display)] text-4xl font-semibold leading-none md:text-6xl">
-                От выбора слэба до монтажа на объекте
+                От выбора материала до монтажа на объекте
               </h2>
             </div>
             <div className="grid gap-3 sm:grid-cols-2">

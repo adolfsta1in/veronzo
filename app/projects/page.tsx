@@ -13,7 +13,6 @@ export default function ProjectsPage() {
       <PageHero
         label="Проекты"
         title="Галерея фактур, деталей и готовых решений"
-        text="Masonry-галерея использует реальные изображения текущего сайта VERONZO."
         image="/images/source/countertops/countertops-01.jpeg"
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">

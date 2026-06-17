@@ -16,6 +16,10 @@ export default function ProductsPage() {
         title="Камень в точной форме для вашего пространства"
         text="Сохранили действующие направления изделий VERONZO и собрали их в презентационную структуру."
         image="/images/source/products/products-01.jpeg"
+        slides={productWorks.slice(0, 6).map((item) => ({
+          src: item.image,
+          alt: item.title,
+        }))}
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">
         <SectionHeading title="Каталог изделий" text="Каждая категория ведет к заявке и консультации, без публичных цен." />

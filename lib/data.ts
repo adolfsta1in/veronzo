@@ -144,7 +144,7 @@ export const stoneCategories: CategoryItem[] = [
   {
     title: "Полудрагоценный Камень",
     href: "/catalog-stone",
-    description: "Акцентные слэбы для баров, панелей, подсветки и деталей.",
+    description: "Акцентные каменные плиты для баров, панелей, подсветки и деталей.",
     image: "/images/source/catalog-stone/catalog-stone-05.jpg",
     icon: Sparkles,
     material: "Полудрагоценный камень",
