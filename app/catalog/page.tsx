@@ -19,6 +19,10 @@ export default function CatalogPage() {
         slides={productCategories.map((item) => ({
           src: item.image,
           alt: item.title,
+          title: item.title,
+          description: item.description,
+          href: item.href,
+          cta: "Перейти в раздел",
         }))}
       />
       <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">

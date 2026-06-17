@@ -4,6 +4,10 @@ import { HeroImageSlider } from "@/components/hero-image-slider";
 type HeroSlide = {
   src: string;
   alt: string;
+  title?: string;
+  description?: string;
+  href?: string;
+  cta?: string;
 };
 
 type PageHeroProps = {

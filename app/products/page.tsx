@@ -19,9 +19,13 @@ export default function ProductsPage() {
         slides={productWorks.slice(0, 6).map((item) => ({
           src: item.image,
           alt: item.title,
+          title: item.title,
+          description: item.description,
+          href: "#products-catalog",
+          cta: "Смотреть в каталоге",
         }))}
       />
-      <section className="mx-auto max-w-[1400px] px-5 pb-20 lg:px-8">
+      <section id="products-catalog" className="mx-auto max-w-[1400px] scroll-mt-28 px-5 pb-20 lg:px-8">
         <SectionHeading title="Каталог изделий" text="Каждая категория ведет к заявке и консультации, без публичных цен." />
         <div className="mt-10">
           <CategoryGrid items={productWorks} columns="mixed" />
