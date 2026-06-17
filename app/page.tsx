@@ -87,18 +87,37 @@ export default function Home() {
             </div>
           </div>
           <div className="grid gap-4 sm:grid-cols-2">
-            {stoneCategories.slice(0, 6).map((item) => {
-              const Icon = item.icon;
-              return (
-                <article key={item.title} className="rounded-[28px] border border-white/70 bg-white/75 p-5 shadow-[0_18px_58px_rgba(20,23,26,0.08)] backdrop-blur">
-                  <Icon size={22} strokeWidth={1.7} className="text-[var(--accent-dark)]" />
-                  <h3 className="mt-5 font-[family-name:var(--font-display)] text-3xl font-semibold text-[var(--graphite)]">
-                    {item.title}
-                  </h3>
-                  <p className="mt-2 text-sm leading-6 text-[var(--smoke)]">{item.description}</p>
-                </article>
-              );
-            })}
+            {stoneCategories.slice(0, 6).map((item, index) => (
+              <a
+                key={item.title}
+                href="/catalog-stone"
+                className={`group relative min-h-[300px] overflow-hidden rounded-[28px] bg-[var(--graphite)] text-white shadow-[0_18px_58px_rgba(20,23,26,0.12)] ${
+                  index === 0 ? "sm:min-h-[380px]" : ""
+                }`}
+              >
+                <Image
+                  src={item.image}
+                  alt={item.title}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 34vw"
+                  className="object-cover opacity-86 transition duration-700 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/82 via-black/20 to-white/8" />
+                <div className="absolute inset-x-0 bottom-0 p-6">
+                  <div className="flex items-end justify-between gap-4">
+                    <div>
+                      <h3 className="font-[family-name:var(--font-display)] text-4xl font-semibold leading-none">
+                        {item.title}
+                      </h3>
+                      <p className="mt-3 max-w-sm text-sm leading-6 text-white/76">{item.description}</p>
+                    </div>
+                    <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white text-[var(--graphite)] opacity-0 transition group-hover:opacity-100">
+                      <ArrowUpRight size={17} strokeWidth={1.8} />
+                    </span>
+                  </div>
+                </div>
+              </a>
+            ))}
           </div>
         </div>
       </section>
