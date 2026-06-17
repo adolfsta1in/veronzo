@@ -135,7 +135,7 @@ export const stoneCategories: CategoryItem[] = [
     title: "Травертин",
     href: "/catalog-stone",
     description: "Фактурный природный камень для спокойных архитектурных поверхностей.",
-    image: "/images/source/catalog-stone/catalog-stone-04.jpg",
+    image: "/images/source/catalog-stone/travertin.jpg",
     icon: PanelsTopLeft,
     material: "Травертин",
     color: "Теплый",
