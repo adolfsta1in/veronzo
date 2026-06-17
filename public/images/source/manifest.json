@@ -1,0 +1,447 @@
+﻿[
+    {
+        "Page":  "catalog",
+        "Path":  "/images/source/catalog/catalog-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-14.37.13-683x1024.jpeg"
+    },
+    {
+        "Page":  "catalog",
+        "Path":  "/images/source/catalog/catalog-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-22.23.59-682x1024.jpeg"
+    },
+    {
+        "Page":  "catalog",
+        "Path":  "/images/source/catalog/catalog-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-22.23.58-682x1024.jpeg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-21-at-23.50.19.jpeg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-02.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/1676675278_newphoto-club-p-mramor-s-podsvetkoi-v-interere-59.jpg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-03.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/jpg.jpg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-04.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/Vasca-VA102-CONO-PDR031-Nuvolato-03-1024x576.jpg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WildAgateLight-1024x683.jpg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-06.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/brown-cracked-marble-textured-background-scaled.jpg"
+    },
+    {
+        "Page":  "catalog-stone",
+        "Path":  "/images/source/catalog-stone/catalog-stone-07.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-00.33.45.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-13.56.47-e1769170489208-847x1024.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-14.00.58.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-14.50.26-1024x682.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-14.59.11-1024x682.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-05.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-15.02.25-1024x683.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-06.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-15.08.38.jpeg"
+    },
+    {
+        "Page":  "products",
+        "Path":  "/images/source/products/products-07.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-15.18.10.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.16.39-746x1024.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-16.11.33-1024x683.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-16.58.50-1024x683.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.18.45.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-05.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.19.06-1024x663.jpeg"
+    },
+    {
+        "Page":  "fireplaces",
+        "Path":  "/images/source/fireplaces/fireplaces-06.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.19.19-1024x718.jpeg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-01.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/fded2e05e304c45c88ba65d120f61543.jpg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.51.49-1024x526.jpeg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.40.22.jpeg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/n5q1t5jypg4sd8omv37q51t4fdve92vu-e1769174028820-668x1024.jpeg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/white-room-with-marble-wall-texture-generative-ai_220873-22214-1024x574.jpg"
+    },
+    {
+        "Page":  "floors-walls",
+        "Path":  "/images/source/floors-walls/floors-walls-06.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-18.17.56.jpeg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-01.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/0fee171458be8d45454517f77ab733dd-e1769177513706-690x1024.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-02.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/1646480051_29-amiel-club-p-slanets-v-vannoi-komnate-interer-krasivo-f-30-2-1024x675.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-03.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/1679101488_design-pibig-info-p-vannaya-komnata-s-dzhakuzi-dizain-dizain-i-66-e1769177378497-1024x828.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-04.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/697345cfadd1ba793ac5f5679e8c6764-819x1024.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/white-marble-stone-bathtub-071145051-2-1024x576.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-06.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/1667301875_13-idei-club-p-vannaya-komnata-chernii-mramor-vkontakte-15-1-1024x683.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-07.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/EIp2V17FGvVDDTAyM7eb0HKo1rHdSvthDH8VaZEE-1024x683.jpg"
+    },
+    {
+        "Page":  "bathrooms",
+        "Path":  "/images/source/bathrooms/bathrooms-08.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/vvg4xmlmDyqRPqMcMJe4seVu4A641UGN8IHy0bFf-1024x683.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-01.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/hammam-iz-mramora-anima-1-1024x682.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/XXL_height-2.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-14.59.11-1024x682.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/XXL_height-1.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/452_2-1024x683.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-06.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/452_1-1024x683.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-07.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/452_4-1024x683.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-08.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/452_17-1024x683.jpg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-09.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.17.11-2-768x1024.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-10.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.17.11-768x1024.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-11.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.17.11-1-768x1024.jpeg"
+    },
+    {
+        "Page":  "baths",
+        "Path":  "/images/source/baths/baths-12.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.17.10-768x1024.jpeg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-15.02.25-1024x683.jpeg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-02.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/90229936-mramornaia-lestnitsa-14-1024x681.jpg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-24-at-00.33.29-1-e1769196863995-654x1024.jpeg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-24-at-00.09.15-683x1024.jpeg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/information_items_8623.jpg"
+    },
+    {
+        "Page":  "stairs",
+        "Path":  "/images/source/stairs/stairs-06.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/99c919423f4cc2f14e70c67d6a189b69.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-15.08.38-1024x683.jpeg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-02.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/show-stopping-two.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-03.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/7f1c0135ab44e8bb81f3b7c7c7a9fecc-1024x780.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-04.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/stoleshnitsi_dlya_kuhni-granit_black_cosmic-4788-1024x681.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/76f15ab2ed73b04957c04f6be97babc0-1024x575.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-06.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/toleshnica-iz-mramora-1024x576.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-07.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/5609929dabd919056de49f23fab02265.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-08.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/barnaya-stojka-1024x569.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-09.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/Zp9NCRl7zV2K2YJPQTinV2FMlfaBRLWP7jkPfA9k.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-10.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/uDFvCWxRYXys3owB5qJgiCTuisbn6vvoAhnAHSn7-1.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-11.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/f32PAaZjk1QkdQsjqlku5WqksnsiFvcEwMGbmAzG-576x1024.jpg"
+    },
+    {
+        "Page":  "countertops",
+        "Path":  "/images/source/countertops/countertops-12.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/1jUKHiMs8QNzOhb1zHMWcpjxLIzfBhgV71Yd0sBp-576x1024.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-01.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/BwCsMkqPyH794DWaVBUCr06OhetNiBeN75iQKiea-1024x682.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-02.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/ob29kQObu8PLO3oQycd9l1UH6IGcNWlcG8GugepA.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-03.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/cZeXDcpW4EjBd9PAEnndefuaZPpWVkr3wy6AwTw4-1024x682.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-04.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/3ox9Ia0eBRrRoLmsuNjZTS5Imp3F3cCDJMUMi9Mq.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-05.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/vintage-modern-restaurant-with-full-comfort-1024x819.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-06.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/scale_1200-1024x847.jpeg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-07.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/0UerQipR18xjWdsor5tOXQ1lnF09DbUJEQlEbiFy-1024x683.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-08.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/fvFq7iEZjfr6auwNVrEluuoW5OpBfzKeLsF8ltMM-1024x683.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-09.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/VRvehBqlKMaIIZRsBayDl5CKezgVzlm04wBz7VuI-1024x683.jpg"
+    },
+    {
+        "Page":  "furniture",
+        "Path":  "/images/source/furniture/furniture-10.jpg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/01/peweaAxiI4MzCBr9pdXTZs4fuH53R5vsWPR5hLqG-1024x683.jpg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-01.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-01-at-14.05.58-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-02.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-01-at-14.21.02-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-03.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-01-at-14.45.01-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-04.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-19-at-17.36.00-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-05.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-01-at-14.50.43-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-06.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-01-at-14.52.51-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-07.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-19-at-17.42.52-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-08.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-19-at-17.44.32-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-09.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-19-at-18.18.23-682x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-10.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-19-at-18.19.34-683x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-11.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-22.13.02-1-682x1024.jpeg"
+    },
+    {
+        "Page":  "service",
+        "Path":  "/images/source/service/service-12.jpeg",
+        "Url":  "https://veronzo.ru/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-22.14.47-682x1024.jpeg"
+    }
+]
